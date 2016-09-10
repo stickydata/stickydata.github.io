@@ -4,8 +4,8 @@ title: "Balancing flow and responsiveness in data teams"
 date: 2016-09-09
 ---
 
-**Premise:** data teams need both individual-level flow and team-level responsiveness to be effective
-**Argument:** these two good things exist in tension because flow reduces (by definition) responsiveness; it is the job of data team leaders to make this trade-off more palatable to both individuals and the organisation; unfortunately we are much better at improving individual-level factors than team-level behaviour (classic prisoner's dilemma)
+**Premise:** data teams need both individual-level flow and team-level responsiveness to be effective \\
+**Argument:** these two good things exist in tension because flow reduces (by definition) responsiveness; it is the job of data team leaders to make this trade-off more palatable to both individuals and the organisation; unfortunately we are much better at improving individual-level factors than team-level behaviour (classic prisoner's dilemma) \\
 **Recommendation:** leaders of data teams need to ensure every individual can achieve a useful amount of flow, while avoiding the trap where responsiveness becomes only some people's job; create structures that make responsiveness to the organisation a team activity
 
 One of the most important factors in the success of any technical team, data included, is that individual members reach a state of 'flow'. What this is, its importance, and what blocks it, are outlined in this great post by Quincy Larson: [Live asynchronously](https://medium.freecodecamp.com/live-asynchronously-c8e7172fe7ea#.2pw8yjrqz){:target="_blank"}. To summarise, 'flow' is the state of mind in which technical people do their greatest work, it's the only way the 'real work' gets done, and almost *everything* about modern organisations (from open plan offices to Slack notifications) gets in the way.
