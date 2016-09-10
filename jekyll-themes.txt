@@ -1,0 +1,3 @@
+Jekyll theme options
+
+Hyde (with right oriented bar) - http://hyde.getpoole.com/
