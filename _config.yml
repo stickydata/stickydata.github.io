@@ -1,2 +1,21 @@
-name: StickyData by Shaun McGirr
-markdown: kramdown
+# Dependencies
+markdown:         kramdown
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            StickyData
+tagline:          'building better data teams'
+description:      'building better data teams'
+url:              http://stickydata.co
+baseurl:          /
+
+author:
+  name:           'Shaun McGirr'
+  url:            https://twitter.com/shaunmcgirr
+
+paginate:         5
+
+# Custom vars
+
