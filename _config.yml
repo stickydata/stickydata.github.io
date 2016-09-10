@@ -1,2 +1,27 @@
-name: StickyData by Shaun McGirr
-markdown: kramdown
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            StickyData
+tagline:          'building better data teams'
+description:      'I am Shaun McGirr, and StickyData is the name of my (future) consulting business. It doesn’t exist yet. There’s no concrete timeline, but I do know what success looks like: when people who want to achieve remarkable things with data come to me for advice, and I make it happen.'
+url:              http://stickydata.co
+baseurl:          /
+
+author:
+  name:           'Shaun McGirr'
+  url:            https://twitter.com/shaunmcgirr
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+
